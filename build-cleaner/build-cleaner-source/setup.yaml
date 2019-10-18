@@ -1,0 +1,19 @@
+username: genie.codewind
+hostname: projects-storage.eclipse.org
+numberOfBuildsToPreserve: 5
+numberOfDaysToPreserve: 10
+
+pathsDeleteByNumber:
+- /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-installer/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-eclipse/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-vscode/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-vscode/master
+
+
+pathsDeleteByTimestamp:
+- /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-installer/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-eclipse/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-vscode/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-vscode/pr

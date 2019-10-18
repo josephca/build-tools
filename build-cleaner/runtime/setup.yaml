@@ -1,0 +1,26 @@
+username: genie.codewind
+hostname: projects-storage.eclipse.org
+numberOfBuildsToPreserve: 30
+numberOfDaysToPreserve: 14
+
+pathsDeleteByNumber:
+- /home/data/httpd/download.eclipse.org/codewind/codewind-appsody-extension/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-filewatcher-ts/master
+# N/A - /home/data/httpd/download.eclipse.org/codewind/codewind-filewatchers/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-installer/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-eclipse/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-vscode/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-vscode/master
+
+
+
+pathsDeleteByTimestamp:
+- /home/data/httpd/download.eclipse.org/codewind/codewind-appsody-extension/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/pr
+# N/A - /home/data/httpd/download.eclipse.org/codewind/codewind-filewatcher/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-installer/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-eclipse/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-vscode/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-vscode/pr
+

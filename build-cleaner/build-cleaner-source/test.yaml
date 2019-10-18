@@ -1,0 +1,10 @@
+username: root
+hostname: 9.21.109.137 
+numberOfBuildsToPreserve: 5
+numberOfDaysToPreserve: 10
+
+pathsDeleteByNumber:
+- /root/build-test/test-by-number
+
+pathsDeleteByTimestamp:
+- /root/build-test/test-by-directory
