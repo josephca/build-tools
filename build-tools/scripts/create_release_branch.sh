@@ -11,11 +11,11 @@ declare -a REPOSITORY_ARRAY=(
                              # n/a "codewind-node-profiler" 
                              "codewind-eclipse" 
                              "codewind-vscode" 
-                             # "codewind-openapi-eclipse" 
+                             # "codewind-openapi-eclipse" # check if required
                              "codewind-openapi-vscode" 
-                             "codewind-docs" 
-                             "codewind-appsody-extension" 
-                             "codewind-odo-extension" 
+                             # "codewind-docs" # should be branched out on GA
+                             # n/a "codewind-appsody-extension" 
+                             # n/a "codewind-odo-extension" 
                              )
   
   
