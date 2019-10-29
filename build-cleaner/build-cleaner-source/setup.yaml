@@ -9,7 +9,7 @@ pathsDeleteByNumber:
 - /home/data/httpd/download.eclipse.org/codewind/codewind-filewatcher-ts/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-installer/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-intellij/master
-- /home/data/httpd/download.eclipse.org/codewind/codewind-odo-extension/master
+# TBD - /home/data/httpd/download.eclipse.org/codewind/codewind-odo-extension/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-eclipse/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-vscode/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-vscode/master
@@ -19,8 +19,8 @@ pathsDeleteByTimestamp:
 - /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-filewatcher-ts/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-installer/pr
-- /home/data/httpd/download.eclipse.org/codewind/codewind-intellij/pr
-- /home/data/httpd/download.eclipse.org/codewind/codewind-odo-extension/pr
+# TBD - /home/data/httpd/download.eclipse.org/codewind/codewind-intellij/pr
+# TBD - /home/data/httpd/download.eclipse.org/codewind/codewind-odo-extension/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-eclipse/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-vscode/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-vscode/pr
