@@ -4,16 +4,21 @@ numberOfBuildsToPreserve: 5
 numberOfDaysToPreserve: 10
 
 pathsDeleteByNumber:
+- /home/data/httpd/download.eclipse.org/codewind/codewind-appsody-extension/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-installer/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-intellij/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-odo-extension/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-eclipse/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-vscode/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-vscode/master
 
-
 pathsDeleteByTimestamp:
+- /home/data/httpd/download.eclipse.org/codewind/codewind-appsody-extension/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-installer/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-intellij/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-odo-extension/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-eclipse/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-openapi-vscode/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-vscode/pr
