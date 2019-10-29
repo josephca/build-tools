@@ -1,11 +1,12 @@
 username: genie.codewind
 hostname: projects-storage.eclipse.org
-numberOfBuildsToPreserve: 5
-numberOfDaysToPreserve: 10
+numberOfBuildsToPreserve: 30
+numberOfDaysToPreserve: 14
 
 pathsDeleteByNumber:
 - /home/data/httpd/download.eclipse.org/codewind/codewind-appsody-extension/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/master
+- /home/data/httpd/download.eclipse.org/codewind/codewind-filewatcher-ts/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-installer/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-intellij/master
 - /home/data/httpd/download.eclipse.org/codewind/codewind-odo-extension/master
@@ -16,6 +17,7 @@ pathsDeleteByNumber:
 pathsDeleteByTimestamp:
 - /home/data/httpd/download.eclipse.org/codewind/codewind-appsody-extension/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-eclipse/pr
+- /home/data/httpd/download.eclipse.org/codewind/codewind-filewatcher-ts/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-installer/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-intellij/pr
 - /home/data/httpd/download.eclipse.org/codewind/codewind-odo-extension/pr
